@@ -1,1 +1,2 @@
 c:\users\n23-sr3\documents\visual studio 2015\Projects\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Gintay-PC\Documents\GitHub\TestProject\TestProject\bin\Debug\TestProject.exe.config
